@@ -4,10 +4,6 @@ Esurvey is a sample survey app, built with
 [Jetpack Compose](https://developer.android.com/jetpack/compose). The goal of the sample is to
 showcase text input, validation and state capabilities of Compose.
 
-## sample-video
-
-<img src="screenshots/survey.gif"/>
-
 ## Screenshots
 
 <img src="screenshots/screenshots.jpg"/>
@@ -69,11 +65,3 @@ See how to:
 
 The data in the sample is static, held in the `*Repository` classes.
 
-## Setup
-The main [README](https://github.com/Elyablegese/Esurvey-android/) has instructions on how to
-setup this sample, and many others.
-
-## License
-
-```
-Copyright 2023 My Android Open Source Project for ALX
